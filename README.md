@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Farhath Manas
+**B.Com Graduate | Python Full Stack Developer | AWS Cloud Enthusiast**
 
-<!--
-**iamfarhathmanas/iamfarhathmanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technologies I work with:
+- 🐍 Python, Django, REST APIs
+- 💻 HTML, CSS, Bootstrap, JavaScript
+- ☁️ AWS (Basics), SQLite
+- 📊 Excel Automation, Tally Prime
 
-Here are some ideas to get you started:
+🚀 Projects:
+- [CampusConnect](https://github.com/iamfarhathmanas/CampusConnect) – A Django-based student portal
+- [ExcelAutoBot](#) – Automates Excel tasks using Python (Coming soon!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Currently seeking Python/Django Developer roles
+📫 Reach me at: vs.farhathmanas@gmail.com
+
+📈 GitHub Stats:
+![Farhath's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamfarhathmanas&show_icons=true&theme=dracula)
